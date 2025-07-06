@@ -1,1 +1,0 @@
-// Slider controlled by CSS animation; JS not needed for now
